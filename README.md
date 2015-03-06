@@ -1,22 +1,20 @@
 # Kascade
-Rock solid and expandable SASS folder &amp; file structure.
+The goal of Kascade is to keep a sites SASS folder & file structure consistent and it's code clean and well thought out. With that being said this model is not just for large sites with a huge code base. It should be used on any site you build whether it's a small one page website or large corporate site with hundreds of pages. The underlining idea of Kascade is to have consistency. Because the more consistent our SASS is, the easier it will be to maintain down the road.
 
+## Structure Overview
 ```html
 Kascade
 │   main.scss
-│   README.md
-│   .gitignore
 │
 └───00-Vendors
-    │   file011.txt
-    │   file012.txt
+    │   _index.scss
     │
-    ├───subfolder1
-    │   │   file111.txt
-    │   │   file112.txt
-    │   │   ...
+    01-base
+    │   _index.scss
+    │   _index.scss
+    │   _index.scss
     │
-    └───folder2
-    │   file021.txt
-    │   file022.txt
+    02-elements
+    │   _index.scss
+    │   
 ```
