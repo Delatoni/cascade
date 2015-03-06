@@ -7,14 +7,45 @@ Kascade
 │   main.scss
 │
 └───00-Vendors
-    │   _index.scss
+    │   __index.scss
     │
     01-base
-    │   _index.scss
-    │   _index.scss
-    │   _index.scss
-    │
+    │   __index.scss
+    │   _fonts.scss
+    │   _grid.scss
+    │   _mixins.scss
+    │   _variables.scss
+    |
     02-elements
-    │   _index.scss
-    │   
+    │   __index.scss
+    │   _buttons.scss
+    |   _forms.scss
+    |   _general.scss
+    |   _lists.scss
+    |   _typography.scss
+    |
+    03-components
+    |   __index.scss
+    |   _footer.scss
+    |   _header.scss
+    |   _sidebar.scss
+    |
+    04-modules
+    |   __index.scss
+    |   _search.scss
+    |   
+    05-layouts
+    |   __index.scss
+    |   _full-width.scss
+    |   _page.scss
+    |   _post.scss
+    |
+    06-pages
+    |   __index.scss
+    |   _home.scss
+    |
+    07-helpers
+    |   __index.scss
+    |   _isMobile.scss
+    |   
 ```
