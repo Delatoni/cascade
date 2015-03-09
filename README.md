@@ -52,3 +52,103 @@ Kascade
     |   __index.scss
     |   _isMobile.scss
 ```
+## Logic
+
+
+### 00-vendors
+
+```html
+Kascade
+│   main.scss
+│
+└───00-Vendors
+    │   __index.scss
+```
+
+### 01-base
+
+```html
+Kascade
+│   main.scss
+│
+└───01-base
+    │   __index.scss
+    │   _fonts.scss
+    │   _grid.scss
+    │   _mixins.scss
+    │   _variables.scss
+```
+
+### 02-elements
+
+```html
+Kascade
+│   main.scss
+│
+└───02-elements
+    │   __index.scss
+    │   _buttons.scss
+    |   _forms.scss
+    |   _general.scss
+    |   _lists.scss
+    |   _typography.scss
+```
+
+### 03-components
+
+```html
+Kascade
+│   main.scss
+│
+└───03-components
+    |   __index.scss
+    |   _footer.scss
+    |   _header.scss
+    |   _sidebar.scss
+```
+
+### 04-modules
+
+```html
+Kascade
+│   main.scss
+│
+└───04-modules
+    |   __index.scss
+    |   _search.scss
+```
+
+### 05-layouts
+
+```html
+Kascade
+│   main.scss
+│
+└───05-layouts
+    |   __index.scss
+    |   _full-width.scss
+    |   _page.scss
+    |   _post.scss
+```
+
+### 06-pages
+
+```html
+Kascade
+│   main.scss
+│
+└───06-pages
+    |   __index.scss
+    |   _home.scss
+```
+
+### 07-helpers
+
+```html
+Kascade
+│   main.scss
+│
+└───07-helpers
+    |   __index.scss
+    |   _isMobile.scss
+```
