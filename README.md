@@ -2,9 +2,8 @@
 The goal of Kascade is to keep a sites SASS folder & file structure consistent and it's code clean and well thought out. With that being said this model is not just for large sites with a huge code base. It should be used on any site you build whether it's a small one page website or large corporate site with hundreds of pages. The underlining idea of Kascade is to have consistency. Because the more consistent our SASS is, the easier it will be to maintain down the road.
 
 ##Benfits
-- **Concrete Structure** - One clear advantage of Kascade is having 
-- **Clear Hierarchy** - 
-- **Developer Friendly** - 
+- **Clean Hierarchy** - Kascade's file & folder hierarchy is structured in such a way that high-level & vendor code is located at the top of the code base and then cascades down to more specific low level code at the end of the code base. So no ~~!important~~!
+- **Developer Friendly** - Another advantage of Kascade is a having a defined code structure. So when doing a code hand offs or when adding new developers to a project explaining the logic and structure is incredibly easy.
 
 ## Structure Overview
 ```html
