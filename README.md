@@ -56,6 +56,9 @@ Kascade
 Now to get down to business. As you may have noticed by now each folder has one file in common and that is **__index.scss**. This file contains all the @imports for that particular folder and in the end gets pulled in the **main.scss** file. Going back to the folders each folder has a numerical prefix on it. This is simply used to keep our folders in order and also help quickly visualize the folder structure. So now it's time to go folder by folder where the real magic happens.
 
 ### 00-vendors
+This folder is for holding any 3rd party vendors files you might be using in your project. So for example Susy, normalize, ect.
+
+_*You can view examples in the files inside the this folder._
 
 ```html
 Kascade
@@ -66,6 +69,9 @@ Kascade
 ```
 
 ### 01-base
+This folder is for all your projects base settings like fonts, grid settings, mixins, and variables.
+
+_*You can view examples in the files inside the this folder._
 
 ```html
 Kascade
