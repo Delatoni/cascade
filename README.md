@@ -69,7 +69,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───01-base
     │   __index.scss
@@ -83,7 +82,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───02-elements
     │   __index.scss
@@ -98,7 +96,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───03-components
     |   __index.scss
@@ -111,7 +108,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───04-modules
     |   __index.scss
@@ -122,7 +118,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───05-layouts
     |   __index.scss
@@ -135,7 +130,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───06-pages
     |   __index.scss
@@ -146,7 +140,6 @@ Kascade
 
 ```html
 Kascade
-│   main.scss
 │
 └───07-helpers
     |   __index.scss
